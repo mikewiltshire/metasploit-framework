@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "asdasd",
+    "owner": "sadasd",
+    "description": "aDad"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "dfgdgsdgf",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "asDasdaSD"
+  }
+}
